@@ -1,6 +1,10 @@
 ## Hi there 
-At the moment I'm studying Software Development at Unicorn University. 
+At the moment I'm studying Software Development at Unicorn University.
+
+
 Here is my stack which is mainly React based:
+
+
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,express,mongodb,mysql,nodejs,npm,react,vscode)
 <!--
 **JozefBaronai/JozefBaronai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
